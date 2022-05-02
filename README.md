@@ -18,8 +18,8 @@ locations, times, and descriptions
 - Javascript
 - ReactJS
 
-# Authors Info
-- Bryant Le
+# Authors Information
 - Chuong Tran
+- Bryant Le
 - Loc Nguyen
 
