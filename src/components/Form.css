@@ -1,0 +1,37 @@
+.mb-3 {
+  max-width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  max-width: 500px;
+  align-content: center;
+  margin-top: 100px;
+}
+
+.form-center {
+  margin-top: 12px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button-position {
+  display: block !important;
+  padding: 1rem 1rem !important;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.location-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.desc {
+  min-height: 200px !important;
+}
+
+

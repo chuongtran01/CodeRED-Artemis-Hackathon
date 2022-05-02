@@ -1,0 +1,15 @@
+table,
+th,
+td {
+  border: 2px  white;
+}
+
+table {
+  width: 100%;
+}
+
+.accident-position {
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 30px;
+}
