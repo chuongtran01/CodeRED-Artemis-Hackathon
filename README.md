@@ -5,10 +5,11 @@ locations, times, and descriptions
 
 # Technologies
 
-- HTML
-- CSS
 - Javascript
 - ReactJS
+- HTML
+- CSS
+
 
 # Authors Information
 - Chuong Tran
